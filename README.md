@@ -41,7 +41,7 @@ Saya siswa RPL (Rekayasa Perangkat Lunak), gamer, dan pembaca komik yang senang 
 
 ### 📊 GitHub Contribution Graph
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Yuuzaann/Yuuzaann/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Yuuzaann/Yuuzaann/main/output/snake.svg" alt="Snake animation" />
 </p>
 <p align="center">Grafik kontribusi saya di GitHub</p>
 
