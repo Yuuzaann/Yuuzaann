@@ -62,5 +62,5 @@ Seorang siswa RPL, gamer sejati, dan pecinta komik (manga / manhua / manhwa). Se
 
 ### ⚡ Fun Facts
 - Penasaran terus sama dunia coding & gaming  
-- Pembaca komik sejati 😏 (sering lupa nama MC & judulnya)  
+- Pembaca komik sejati 😏 (walau sering lupa nama MC & judulnya)  
 - Kadang ketagihan main game sampe lupa waktu ⏰
