@@ -48,7 +48,8 @@ Seorang siswa RPL, gamer sejati, dan pecinta komik (manga / manhua / manhwa). Se
 ---
 
 ### 🚀 Projects
-- [Web Tetris](https://github.com/Yuuzaann/Tetris-classic-block-puzzle) 🟦 Classic block puzzle, nostalgia vibes
+- [Web Tetris](https://github.com/Yuuzaann/Tetris-classic-block-puzzle)
+- [Web Tic-Tac-Toe](https://github.com/Yuuzaann/Tic-Tac-Toe)
 
 ---
 
