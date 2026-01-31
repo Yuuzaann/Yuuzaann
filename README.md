@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hey there, I'm Sadutzz!</h1>
+<h1 align="center">✨ Hey there, I'm Arya! (but you can call me Yuuzan)</h1>
 
 <p align="center">
 Seorang siswa RPL, gamer sejati, dan pecinta komik (manga / manhua / manhwa). Selalu eksplor teknologi & dunia coding dengan rasa penasaran tinggi! 🚀
@@ -16,7 +16,7 @@ Seorang siswa RPL, gamer sejati, dan pecinta komik (manga / manhua / manhwa). Se
 
 ### 💻 Tech Stack & Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,php,cpp,python,js,laravel,codeigniter,bootstrap,java" height="40" />
+  <img src="https://skillicons.dev/icons?i=html,css,php,cpp,python,js,codeigniter,bootstrap,java" height="40" />
 </div>
 
 ---
