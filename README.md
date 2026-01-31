@@ -41,7 +41,7 @@ Seorang siswa RPL, gamer sejati, dan pecinta komik (manga / manhua / manhwa). Se
 
 ### 📊 GitHub Contributions
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Yuuzaann/Yuuzaann/output/pacman.svg" alt="Pacman animation" />
+  <img src="https://raw.githubusercontent.com/Yuuzaann/Yuuzaann/output/snake.svg" alt="Snake animation" />
 </p>
 <p align="center">Kontribusi coding & project di GitHub</p>
 
