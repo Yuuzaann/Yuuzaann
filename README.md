@@ -54,8 +54,8 @@ Seorang siswa RPL, gamer sejati, dan pecinta komik (manga / manhua / manhwa). Se
 
 ### 📬 Let's Connect
 - Instagram: [@Sadutzz_](https://www.instagram.com/Sadutzz_)  
-- TikTok: [@Sadutzz_](https://www.tiktok.com/@yuuzaann_)  
-- X/Twitter: [@Sadutzz_](https://x.com/Yuuzaan_)
+- TikTok: [@yuuzaann](https://www.tiktok.com/@yuuzaann_)  
+- X/Twitter: [@Yuuzaan](https://x.com/Yuuzaan_)
 
 ---
 
