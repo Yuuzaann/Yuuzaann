@@ -1,9 +1,9 @@
-name: Generate pacman animation
+name: Generate Pacman animation
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-  workflow_dispatch:
+  schedule:       # jalan tiap 12 jam
+    - cron: "0 */12 * * *"
+  workflow_dispatch:  # bisa trigger manual
   push:
     branches:
       - main
@@ -16,14 +16,16 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: generate pacman.svg
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate pacman.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/pacman.svg?palette=github-dark
-          style: pacman # style pacman, default snake
-          
-      - name: push pacman.svg to the output branch
+          outputs: dist/pacman.svg?style=pacman&palette=github-dark
+
+      - name: Push pacman.svg to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
