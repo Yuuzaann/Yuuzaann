@@ -59,7 +59,7 @@ Seorang siswa RPL, gamer sejati, dan pecinta komik (manga / manhua / manhwa). Se
 ---
 
 ### 👀 Join My discord
-- [Midnight Moon] (https://discord.gg/N469ZNNSzS)
+- [Midnight Moon](https://discord.gg/N469ZNNSzS)
 
 ---
 
