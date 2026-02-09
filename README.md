@@ -58,6 +58,11 @@ Seorang siswa RPL, gamer sejati, dan pecinta komik (manga / manhua / manhwa). Se
 
 ---
 
+### 👀 Join My discord
+- [Midnight Moon] (https://discord.gg/N469ZNNSzS)
+
+---
+
 ### ⚡ Fun Facts
 - Penasaran terus sama dunia coding & gaming  
 - Pembaca komik sejati 😏 (walau sering lupa nama MC & judulnya)  
