@@ -188,17 +188,21 @@ export default Yuuzan;
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Yuuzaann&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=A855F7" />
+<a href="https://github.com/Yuuzaann">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yuuzaann&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" />
+</a>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuuzaann&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC" />
+<br/><br/>
 
-</div>
+<a href="https://github.com/Yuuzaann">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuuzaann&layout=compact&theme=midnight-purple&hide_border=true" />
+</a>
 
-<br/>
+<br/><br/>
 
-<div align="center">
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Yuuzaann&theme=tokyonight&hide_border=true&background=0D1117&ring=C084FC&fire=A855F7&currStreakLabel=C084FC" />
+<a href="https://github.com/Yuuzaann">
+  <img src="https://streak-stats.demolab.com?user=Yuuzaann&theme=midnight-purple&hide_border=true" />
+</a>
 
 </div>
 
