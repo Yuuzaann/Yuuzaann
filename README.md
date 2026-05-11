@@ -299,39 +299,26 @@ A chill place for:
 
 # ⚡ Fun Facts
 
-```yaml
-developer_mode:
-  favorite_time: "midnight 🌙"
-  coding_style: "learn by building"
-  weakness: "one more game"
-
-daily_routine:
-  - coding
-  - gaming
-  - reading manga
-  - searching random tech topics
-
-random_truths:
-  - "One more match" is never one match
-  - Most project ideas appear at 2AM
-  - Debugging feels easier at night
-  - Manga reading sessions can last forever
-
-energy_source:
-  - coffee ☕
-  - music 🎧
-  - random motivation 🚀
-```
-
----
-
-# 🎵 Currently Vibing To
-
-<div align="center">
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31xxxxxxxxxxxxxxxxxxxxxx&cover_image=true&theme=novatorem&show_offline=false&background_color=0D1117&interchange=false&bar_color=C084FC&bar_color_cover=false" />
-
-</div>
+- 🌙 Most of my coding sessions happen late at night
+- 🎮 “Just one more match” usually turns into hours of gaming
+- 📖 I can binge manga/manhwa for an entire day without noticing
+- 💡 Many of my project ideas appear randomly at 2AM
+- 🎧 I almost always listen to music while coding
+- ☕ Coffee makes debugging sessions feel easier
+- 🚀 I enjoy learning new technologies by directly building projects
+- 🧩 I like understanding how systems work internally
+- 🔥 I enjoy turning simple ideas into functional applications
+- 🐛 Debugging can be frustrating, but also strangely satisfying
+- 💻 I prefer learning through practice instead of only theory
+- 🎯 I’m always trying to improve my coding skills step by step
+- 🌐 I enjoy exploring modern web development trends
+- 🎨 I like clean and modern UI designs
+- ⚡ Sometimes I start coding for “a few minutes” and suddenly it’s sunrise
+- 📚 I enjoy discovering underrated manga/manhwa series
+- 🎮 Gaming and coding are probably my two biggest hobbies
+- 🚀 I want to build projects that become more useful over time
+- 🔍 I’m always curious about how apps and websites are built
+- 🌌 Late-night coding sessions just hit differently
 
 ---
 
