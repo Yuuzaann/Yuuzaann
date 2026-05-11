@@ -220,17 +220,17 @@ export default Yuuzan;
 
 # 🚀 Featured Projects
 
-<div align="center">
+<p align="center">
 
 <a href="https://github.com/Yuuzaann/Tetris-classic-block-puzzle">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Yuuzaann&repo=Tetris-classic-block-puzzle&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yuuzaann&repo=Tetris-classic-block-puzzle&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/Yuuzaann/Tic-Tac-Toe">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Yuuzaann&repo=Tic-Tac-Toe&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yuuzaann&repo=Tic-Tac-Toe&theme=tokyonight" />
 </a>
 
-</div>
+</p>
 
 ---
 
