@@ -220,17 +220,55 @@ export default Yuuzan;
 
 # 🚀 Featured Projects
 
-<p align="center">
+<table>
+<tr>
 
-<a href="https://github.com/Yuuzaann/Tetris-classic-block-puzzle">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yuuzaann&repo=Tetris-classic-block-puzzle&theme=tokyonight" />
-</a>
+<td width="50%" valign="top">
 
-<a href="https://github.com/Yuuzaann/Tic-Tac-Toe">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yuuzaann&repo=Tic-Tac-Toe&theme=tokyonight" />
-</a>
+## 🎮 Tetris Classic Block Puzzle
 
-</p>
+A classic web-based Tetris game inspired by the original arcade gameplay.
+
+### ✨ Features
+- Smooth block movement
+- Score system
+- Classic gameplay mechanics
+- Responsive game layout
+
+### ⚙️ Tech Stack
+- HTML
+- CSS
+- JavaScript
+
+### 🔗 Repository
+https://github.com/Yuuzaann/Tetris-classic-block-puzzle
+
+</td>
+
+<td width="50%" valign="top">
+
+## ❌⭕ Tic-Tac-Toe
+
+An interactive Tic-Tac-Toe web game with a clean and simple interface.
+
+### ✨ Features
+- Player vs Player mode
+- Win & draw detection
+- Responsive UI
+- Lightweight and fast
+
+### ⚙️ Tech Stack
+- HTML
+- CSS
+- JavaScript
+
+### 🔗 Repository
+https://github.com/Yuuzaann/Tic-Tac-Toe
+
+</td>
+
+</tr>
+</table>
 
 ---
 
