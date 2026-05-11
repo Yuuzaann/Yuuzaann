@@ -1,73 +1,95 @@
-<h1 align="center">✨ Hey there, I'm Arya! (but you can call me Yuuzan)</h1>
+<h1 align="center">✨ Hey, I'm Arya — also known as Yuuzan</h1>
 
 <p align="center">
-Seorang siswa RPL, gamer sejati, dan pecinta komik (manga / manhua / manhwa). Selalu eksplor teknologi & dunia coding dengan rasa penasaran tinggi! 🚀
+  🎓 Vocational High School Student • 💻 Web Development Enthusiast • 🎮 Gamer • 📖 Manga Addict
+</p>
+
+<p align="center">
+  Passionate about technology, coding experiments, and exploring new things in the world of programming & gaming 🚀
 </p>
 
 ---
 
-### 🎮 Hobbies & Activities
-- Main game favorit: **HOK, Minecraft, PGR, Arknights: Endfield**  
-- Baca komik nonstop (manga / manhua / manhwa) 📖  
-- Bikin & eksperimen project coding  
-- Selalu cari hal baru di dunia tech & gaming  
+## 🎮 Hobbies & Interests
+
+- 🎯 Playing games & exploring game mechanics
+- 📖 Reading manga / manhua / manhwa nonstop
+- 💻 Building and experimenting with coding projects
+- 🚀 Exploring new technologies & development tools
+- 🌙 Enjoying late-night coding and debugging sessions
 
 ---
 
-### 💻 Tech Stack & Tools
+## 💻 Tech Stack & Tools
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="40" alt="codeigniter logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,php,laravel,python,java,cpp,tailwind,bootstrap,codeigniter" />
+
 </div>
 
 ---
 
-### 📊 GitHub Contributions
+## 📊 GitHub Activity
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Yuuzaann/Yuuzaann/output/snake.svg" alt="Snake animation" />
 </p>
-<p align="center">Kontribusi coding & project di GitHub</p>
+
+<p align="center">
+  Consistency over perfection ⚡
+</p>
 
 ---
 
-### 🚀 Projects
-- [Web Tetris](https://github.com/Yuuzaann/Tetris-classic-block-puzzle)
-- [Web Tic-Tac-Toe](https://github.com/Yuuzaann/Tic-Tac-Toe)
+## 🚀 Featured Projects
+
+### 🎮 Web Tetris
+A classic block puzzle game built for the web platform.  
+🔗 https://github.com/Yuuzaann/Tetris-classic-block-puzzle
+
+### ❌⭕ Web Tic-Tac-Toe
+A simple interactive multiplayer mini game with a clean UI.  
+🔗 https://github.com/Yuuzaann/Tic-Tac-Toe
 
 ---
 
-### 📬 Let's Connect
-- Instagram: [@Sadutzz_](https://www.instagram.com/Sadutzz_)  
-- TikTok: [@yuuzaann](https://www.tiktok.com/@yuuzaann_)  
-- X/Twitter: [@Yuuzaan](https://x.com/Yuuzaan_)
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Sadutzz_)
+
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@yuuzaann_)
+
+[![X](https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Yuuzaan_)
+
+</div>
 
 ---
 
-### 👀 Join My discord
-- [Midnight Moon](https://discord.gg/N469ZNNSzS)
+## 🌙 Join My Community
+
+<div align="center">
+
+### 🌌 Midnight Moon
+A place to chill, play games, share projects, and talk about random things 👀
+
+🔗 https://discord.gg/N469ZNNSzS
+
+</div>
 
 ---
 
-### ⚡ Fun Facts
-- Penasaran terus sama dunia coding & gaming  
-- Pembaca komik sejati 😏 (walau sering lupa nama MC & judulnya)  
-- Kadang ketagihan main game sampe lupa waktu ⏰
+## ⚡ Fun Facts
+
+- 🧠 Always curious about how technology works
+- 📚 Can spend hours reading comics without noticing the time
+- 🎮 Sometimes starts gaming “for a few minutes” and ends at sunrise
+- 💡 Loves building random projects from sudden ideas
+
+---
+
+<p align="center">
+  <i>"Keep learning, keep building, and enjoy the process."</i>
+</p>
