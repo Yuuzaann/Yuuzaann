@@ -1,60 +1,128 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey%2C%20I'm%20Arya%20%E2%80%94%20Yuuzan&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Web%20Developer%20%E2%80%A2%20Gamer%20%E2%80%A2%20Manga%20Addict&descAlignY=60&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0B1120,25:312E81,50:7C3AED,75:A855F7,100:C084FC&text=Arya%20%E2%80%A2%20Yuuzan&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Future%20Full-Stack%20Developer%20%E2%80%A2%20Student%20%E2%80%A2%20Tech%20Explorer&descAlignY=58&descSize=22" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Vocational+High+School+Student+%F0%9F%8E%93;Web+Development+Enthusiast+%F0%9F%92%BB;Late-night+Coder+%26+Debugger+%F0%9F%8C%99;Manga+%2F+Manhwa+%2F+Manhua+Reader+%F0%9F%93%96;Always+Building+Something+New+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=C084FC&center=true&vCenter=true&width=850&lines=Vocational+High+School+Student+%F0%9F%8E%93;Passionate+About+Web+Development+%F0%9F%92%BB;Building+Projects+and+Learning+Everyday+%F0%9F%9A%80;Late-night+Coding+Sessions+%F0%9F%8C%99;Manga+%2F+Manhwa+%2F+Manhua+Enjoyer+%F0%9F%93%96;Always+Curious+About+Technology+%E2%9A%A1)](https://git.io/typing-svg)
+
+<br/><br/>
+
+<img src="https://img.shields.io/github/followers/Yuuzaann?style=for-the-badge&logo=github&color=7C3AED&labelColor=111827" />
+<img src="https://img.shields.io/github/stars/Yuuzaann?style=for-the-badge&logo=github&color=A855F7&labelColor=111827" />
+<img src="https://komarev.com/ghpvc/?username=Yuuzaann&style=for-the-badge&color=C084FC&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
-# 🙋‍♂️ About Me
+# 🌌 About Me
+
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 ```ts
-const yuuzan = {
-  name: "Arya",
-  alias: "Yuuzan",
+class Yuuzan {
+  constructor() {
+    this.name = "Arya";
+    this.alias = "Yuuzan";
 
-  role: "Vocational High School Student",
-  focus: "Web Development",
+    this.role = "Vocational High School Student";
+    this.focus = "Web Development";
 
-  passions: [
-    "Programming",
-    "Gaming",
-    "Manga",
-    "Open Source"
-  ],
+    this.languages = [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "PHP",
+      "Python",
+      "Java",
+      "C++"
+    ];
 
-  currentlyLearning: [
-    "Laravel",
-    "Backend Development",
-    "Modern UI/UX",
-    "Full-Stack Development"
-  ],
+    this.frameworks = [
+      "Laravel",
+      "CodeIgniter",
+      "Tailwind CSS",
+      "Bootstrap"
+    ];
 
-  funFact:
-    "Started gaming for a few minutes... somehow ended at sunrise ☀️"
-};
+    this.interests = [
+      "Backend Development",
+      "UI/UX Design",
+      "Gaming",
+      "Open Source",
+      "Technology"
+    ];
+
+    this.currentGoal =
+      "Becoming a professional Full-Stack Developer";
+
+    this.motto =
+      "Keep learning, keep building, and never stop exploring 🚀";
+  }
+}
+
+export default Yuuzan;
 ```
+
+<br clear="right"/>
 
 ---
 
-# 🎮 Hobbies & Interests
+# 🚀 Developer Journey
+
+<div align="center">
+
+| 💻 Currently Learning | ⚡ Building | 🎯 Future Goals |
+|---|---|---|
+| Laravel Ecosystem | Interactive Web Apps | Full-Stack Engineering |
+| Backend Architecture | Personal Projects | Production-Ready Systems |
+| UI/UX Improvements | Utility Applications | Clean Code Mastery |
+| Database Optimization | Game Projects | Scalable Applications |
+
+</div>
+
+---
+
+# 🧠 Mindset
+
+<div align="center">
+
+> “Every bug is a lesson. Every project is progress.”
+
+</div>
+
+- 💡 I enjoy learning by building real projects
+- 🧩 I like understanding how systems work internally
+- 🚀 Always experimenting with new technologies
+- 🎯 Focused on improving both frontend and backend skills
+- 🌙 Most productive during late-night coding sessions
+
+---
+
+# 🎮 Interests & Activities
 
 <table>
 <tr>
 <td width="50%">
 
-### 🎯 Gaming
-Exploring game mechanics, grinding ranks, and enjoying competitive matches.
+## 🎯 Gaming
+
+- Competitive and casual games
+- Exploring gameplay mechanics
+- Grinding ranks with friends
+- Strategy & survival games
 
 </td>
+
 <td width="50%">
 
-### 📖 Manga Reader
-Manga, manhwa, and manhua binge sessions for hours without noticing time.
+## 📖 Manga / Manhwa / Manhua
+
+- Action & fantasy genres
+- Long binge-reading sessions
+- Discovering underrated stories
+- Sometimes forgetting character names 😭
 
 </td>
 </tr>
@@ -62,14 +130,23 @@ Manga, manhwa, and manhua binge sessions for hours without noticing time.
 <tr>
 <td width="50%">
 
-### 💻 Coding Projects
-Building random ideas, experimenting with features, and learning by creating.
+## 💻 Coding
+
+- Building random ideas at 2AM
+- Experimenting with UI designs
+- Creating mini games & utilities
+- Learning through project development
 
 </td>
+
 <td width="50%">
 
-### 🚀 Tech Exploration
-Trying new frameworks, tools, and technologies to improve development skills.
+## 🚀 Technology
+
+- Exploring development tools
+- Learning modern frameworks
+- Watching tech content
+- Following software trends
 
 </td>
 </tr>
@@ -77,34 +154,43 @@ Trying new frameworks, tools, and technologies to improve development skills.
 
 ---
 
-# 💻 Tech Stack & Tools
+# 🛠️ Tech Stack
 
 <div align="center">
 
-## 🧠 Languages
+## 💻 Programming Languages
+
 <img src="https://skillicons.dev/icons?i=html,css,javascript,php,python,java,cpp" />
 
 <br/><br/>
 
 ## ⚙️ Frameworks & Libraries
+
 <img src="https://skillicons.dev/icons?i=laravel,codeigniter,tailwind,bootstrap" />
 
 <br/><br/>
 
-## 🛠️ Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" />
+## 🧰 Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,figma,linux" />
+
+<br/><br/>
+
+## 📚 Currently Exploring
+
+<img src="https://skillicons.dev/icons?i=nodejs,react,nextjs" />
 
 </div>
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yuuzaann&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Yuuzaann&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=A855F7" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuuzaann&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuuzaann&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC" />
 
 </div>
 
@@ -112,19 +198,21 @@ Trying new frameworks, tools, and technologies to improve development skills.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuuzaann&theme=tokyonight&hide_border=true&background=0D1117" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Yuuzaann&theme=tokyonight&hide_border=true&background=0D1117&ring=C084FC&fire=A855F7&currStreakLabel=C084FC" />
 
 </div>
 
-<br/>
+---
+
+# 🐍 Contribution Graph
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Yuuzaann/Yuuzaann/output/snake.svg" alt="Contribution Snake Animation" />
+<img src="https://raw.githubusercontent.com/Yuuzaann/Yuuzaann/output/snake.svg" alt="Snake Animation" />
 
 <br/>
 
-<sub><b>Consistency over perfection ⚡</b></sub>
+### ⚡ Consistency beats motivation.
 
 </div>
 
@@ -135,12 +223,22 @@ Trying new frameworks, tools, and technologies to improve development skills.
 <div align="center">
 
 <a href="https://github.com/Yuuzaann/Tetris-classic-block-puzzle">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yuuzaann&repo=Tetris-classic-block-puzzle&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Yuuzaann&repo=Tetris-classic-block-puzzle&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </a>
 
 <a href="https://github.com/Yuuzaann/Tic-Tac-Toe">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yuuzaann&repo=Tic-Tac-Toe&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Yuuzaann&repo=Tic-Tac-Toe&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </a>
+
+</div>
+
+---
+
+# 📈 Activity Graph
+
+<div align="center">
+
+[![Arya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yuuzaann&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=C084FC&line=A855F7&point=FFFFFF)](https://github.com/Yuuzaann)
 
 </div>
 
@@ -151,26 +249,37 @@ Trying new frameworks, tools, and technologies to improve development skills.
 <div align="center">
 
 <a href="https://www.instagram.com/Sadutzz_">
-<img src="https://img.shields.io/badge/Instagram-%40Sadutzz__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 <a href="https://www.tiktok.com/@yuuzaann_">
-<img src="https://img.shields.io/badge/TikTok-%40yuuzaann__-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
 </a>
 
 <a href="https://x.com/Yuuzaan_">
-<img src="https://img.shields.io/badge/X-%40Yuuzaan__-000000?style=for-the-badge&logo=x&logoColor=white" />
+<img src="https://img.shields.io/badge/X%20(Twitter)-111111?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<a href="https://discord.gg/N469ZNNSzS">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-# 🌌 Midnight Moon Community
+# 🌙 Midnight Moon Community
 
 <div align="center">
 
-> A place to chill, play games, share projects, and talk about random things 👀
+### 🌌 Welcome to Midnight Moon
+
+A chill place for:
+- 🎮 Gaming
+- 💻 Sharing projects
+- 📖 Talking about anime & manga
+- 🚀 Learning tech together
+- 🎧 Random late-night conversations
 
 <br/>
 
@@ -184,22 +293,61 @@ Trying new frameworks, tools, and technologies to improve development skills.
 
 # ⚡ Fun Facts
 
-- 🧠 Always curious about how things work behind the scenes
-- 📚 Can finish an entire manga arc in one sitting
-- 🎮 “Just one more match” is never actually one match
-- 💡 Most project ideas appear randomly at 2AM
-- 🐛 Debugging at night somehow feels easier and more fun
+```yaml
+developer_mode:
+  favorite_time: "midnight 🌙"
+  coding_style: "learn by building"
+  weakness: "one more game"
+
+daily_routine:
+  - coding
+  - gaming
+  - reading manga
+  - searching random tech topics
+
+random_truths:
+  - "One more match" is never one match
+  - Most project ideas appear at 2AM
+  - Debugging feels easier at night
+  - Manga reading sessions can last forever
+
+energy_source:
+  - coffee ☕
+  - music 🎧
+  - random motivation 🚀
+```
+
+---
+
+# 🎵 Currently Vibing To
+
+<div align="center">
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31xxxxxxxxxxxxxxxxxxxxxx&cover_image=true&theme=novatorem&show_offline=false&background_color=0D1117&interchange=false&bar_color=C084FC&bar_color_cover=false" />
+
+</div>
+
+---
+
+# 🏆 Goals for This Year
+
+- 🚀 Improve backend development skills
+- 💻 Build more complete web applications
+- 🎯 Learn modern JavaScript ecosystem
+- 📚 Understand clean architecture better
+- ⚡ Contribute more to GitHub projects
+- 🌐 Create projects useful for many people
 
 ---
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Yuuzaann&color=A78BFA&style=flat-square&label=Profile+Views" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0B1120,25:312E81,50:7C3AED,75:A855F7,100:C084FC" />
 
-<br/><br/>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+### ✨ Thanks for visiting my profile.
 
-### ✨ Keep learning, keep building, and enjoy the process.
+<i>Keep learning, stay curious, and build cool things.</i>
 
 </div>
