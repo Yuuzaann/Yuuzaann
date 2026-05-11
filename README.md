@@ -184,30 +184,6 @@ export default Yuuzan;
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/Yuuzaann">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yuuzaann&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Yuuzaann">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuuzaann&layout=compact&theme=midnight-purple&hide_border=true" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Yuuzaann">
-  <img src="https://streak-stats.demolab.com?user=Yuuzaann&theme=midnight-purple&hide_border=true" />
-</a>
-
-</div>
-
----
-
 # 🐍 Contribution Graph
 
 <div align="center">
