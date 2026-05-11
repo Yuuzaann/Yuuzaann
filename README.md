@@ -18,54 +18,42 @@
 
 # 🌌 About Me
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+Hi! I'm **Arya**, but most people know me as **Yuuzan** 👋
 
-```ts
-class Yuuzan {
-  constructor() {
-    this.name = "Arya";
-    this.alias = "Yuuzan";
+I’m a vocational high school student with a strong passion for technology, programming, and digital creativity. I enjoy learning new things, exploring modern technologies, and building projects that help me improve my skills as a developer.
 
-    this.role = "Vocational High School Student";
-    this.focus = "Web Development";
+My main focus right now is web development, especially backend systems, frontend interfaces, and creating applications with clean and functional designs. I love experimenting with ideas, solving problems through code, and understanding how things work behind the scenes.
 
-    this.languages = [
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "PHP",
-      "Python",
-      "Java",
-      "C++"
-    ];
+I started learning programming because I was curious about how websites, games, and applications are made. Since then, coding has become more than just a hobby for me — it’s something I genuinely enjoy doing every day.
 
-    this.frameworks = [
-      "Laravel",
-      "CodeIgniter",
-      "Tailwind CSS",
-      "Bootstrap"
-    ];
+Most of my projects are built as part of my learning journey:
+- 💻 Web applications
+- 🎮 Mini games
+- ⚡ Interactive interfaces
+- 🛠️ Utility tools
+- 🚀 Experimental side projects
 
-    this.interests = [
-      "Backend Development",
-      "UI/UX Design",
-      "Gaming",
-      "Open Source",
-      "Technology"
-    ];
+I believe the best way to learn programming is by building real things, making mistakes, debugging problems, and continuously improving over time.
 
-    this.currentGoal =
-      "Becoming a professional Full-Stack Developer";
+Currently, I’m focusing on:
+- 🚀 Improving my backend development skills
+- ⚙️ Learning modern web technologies
+- 🎨 Building better UI/UX designs
+- 🧩 Understanding clean architecture & scalable systems
+- 📚 Becoming a better full-stack developer step by step
 
-    this.motto =
-      "Keep learning, keep building, and never stop exploring 🚀";
-  }
-}
+Besides coding, I also enjoy gaming, reading manga/manhwa/manhua, listening to music, and exploring random topics about technology and the internet.
 
-export default Yuuzan;
-```
+I’m the kind of person who:
+- 💡 Gets random project ideas at midnight
+- 🌙 Enjoys late-night coding sessions
+- 🔍 Loves exploring new tools & frameworks
+- 🎯 Learns by experimenting and building
+- 🚀 Always wants to improve little by little
 
-<br clear="right"/>
+Even though I’m still learning, I always try to keep building, stay consistent, and enjoy the process.
+
+> “Small progress every day is still progress.”
 
 ---
 
