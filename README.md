@@ -282,7 +282,7 @@ https://github.com/Yuuzaann/Tic-Tac-Toe
 <img src="https://img.shields.io/badge/X%20(Twitter)-111111?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
-<a href="https://discord.gg/N469ZNNSzS">
+<a href="https://discord.gg/aBG7U3CMKG">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 
