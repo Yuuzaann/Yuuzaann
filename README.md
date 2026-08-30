@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0B1120,25:312E81,50:7C3AED,75:A855F7,100:C084FC&text=Arya%20%E2%80%A2%20Yuuzan&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Future%20Full-Stack%20Developer%20%E2%80%A2%20Student%20%E2%80%A2%20Tech%20Explorer&descAlignY=58&descSize=22" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0B1120,25:312E81,50:7C3AED,75:A855F7,100:C084FC&text=Arya%20%E2%80%A2%20Yuuzan&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Beginner%20Developer%20%E2%80%A2%20Tech%20Explorer%20%E2%80%A2%20Future%20Full-Stack%20Developer&descAlignY=58&descSize=22" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=C084FC&center=true&vCenter=true&width=850&lines=Vocational+High+School+Student+🎓;Passionate+About+Web+Development+💻;Building+Projects+and+Learning+Everyday+🚀;Late-night+Coding+Sessions+🌙;Manga+%2F+Manhwa+%2F+Manhua+Enjoyer+📖;Always+Curious+About+Technology+⚡)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=700\&size=24\&pause=1000\&color=C084FC\&center=true\&vCenter=true\&width=850\&lines=Beginner+Developer+💻;Passionate+About+Web+Development+🚀;Building+Projects+and+Learning+Everyday+⚡;Exploring+Backend+Development+🔧;Late-night+Coding+Sessions+🌙;Manga+%2F+Manhwa+%2F+Manhua+Enjoyer+📖;Always+Curious+About+Technology+🧩)](https://git.io/typing-svg)
 
 <br/><br/>
 
@@ -20,38 +20,42 @@
 
 Hi! I'm **Arya**, also known as **Yuuzan** 👋
 
-I'm a vocational high school student who enjoys exploring technology, programming, and digital creativity.  
+I'm a **beginner developer** who enjoys exploring technology, programming, and digital creativity.
 Most of my time is spent learning new things, experimenting with projects, and improving my development skills step by step.
 
 My main focus is currently on:
-- 💻 Web Development
-- ⚙️ Backend Systems
-- 🎨 UI/UX Design
-- 🚀 Modern Web Technologies
-- 🧩 Problem Solving Through Code
 
-I started learning programming because I was curious about how websites, games, and applications are built.  
-Since then, coding has become more than just a hobby — it’s something I genuinely enjoy every day.
+* 💻 Web Development
+* ⚙️ Backend Systems
+* 🎨 UI/UX Design
+* 🚀 Modern Web Technologies
+* 🧩 Problem Solving Through Code
+
+I started learning programming because I was curious about how websites, games, and applications are built.
+Since then, coding has become more than just a hobby — it’s something I genuinely enjoy.
 
 I enjoy creating:
-- 🌐 Web applications
-- 🎮 Mini games
-- ⚡ Interactive interfaces
-- 🛠️ Utility tools
-- 🚀 Experimental side projects
+
+* 🌐 Web applications
+* 🎮 Mini games
+* ⚡ Interactive interfaces
+* 🛠️ Utility tools
+* 🚀 Experimental side projects
 
 I believe the best way to learn programming is by:
-- building real projects,
-- making mistakes,
-- debugging problems,
-- and continuously improving.
+
+* building real projects,
+* making mistakes,
+* debugging problems,
+* and continuously improving.
 
 Currently, I’m focusing on improving:
-- 🚀 Backend development skills
-- ⚙️ Modern web technologies
-- 🎨 UI/UX understanding
-- 🧩 Clean architecture concepts
-- 📚 Full-stack development skills
+
+* 🚀 Backend development skills
+* ⚙️ Modern web technologies
+* 🎨 UI/UX understanding
+* 🧩 Clean architecture concepts
+* 📚 Full-stack development skills
 
 Outside of coding, I also enjoy gaming, reading manga/manhwa/manhua, listening to music, and exploring random tech topics on the internet.
 
@@ -63,12 +67,12 @@ Outside of coding, I also enjoy gaming, reading manga/manhwa/manhua, listening t
 
 <div align="center">
 
-| 💻 Currently Learning | ⚡ Building | 🎯 Future Goals |
-|---|---|---|
-| Laravel Ecosystem | Interactive Web Apps | Full-Stack Engineering |
-| Backend Architecture | Personal Projects | Production-Ready Systems |
-| UI/UX Improvements | Utility Applications | Clean Code Mastery |
-| Database Optimization | Game Projects | Scalable Applications |
+| 💻 Currently Learning | ⚡ Building           | 🎯 Future Goals          |
+| --------------------- | -------------------- | ------------------------ |
+| Laravel Ecosystem     | Interactive Web Apps | Full-Stack Engineering   |
+| Backend Architecture  | Personal Projects    | Production-Ready Systems |
+| UI/UX Improvements    | Utility Applications | Clean Code Mastery       |
+| Database Optimization | Game Projects        | Scalable Applications    |
 
 </div>
 
@@ -82,11 +86,11 @@ Outside of coding, I also enjoy gaming, reading manga/manhwa/manhua, listening t
 
 </div>
 
-- 💡 Learning by building real projects
-- 🧩 Interested in understanding how systems work internally
-- 🚀 Always experimenting with new technologies
-- 🎯 Improving both frontend and backend development skills
-- 🌙 Most productive during late-night coding sessions
+* 💡 Learning by building real projects
+* 🧩 Interested in understanding how systems work internally
+* 🚀 Always experimenting with new technologies
+* 🎯 Improving both frontend and backend development skills
+* 🌙 Most productive during late-night coding sessions
 
 ---
 
@@ -99,10 +103,10 @@ Outside of coding, I also enjoy gaming, reading manga/manhwa/manhua, listening t
 
 ## 🎯 Gaming
 
-- Competitive & casual games
-- Exploring gameplay mechanics
-- Grinding ranks with friends
-- Strategy & survival genres
+* Competitive & casual games
+* Exploring gameplay mechanics
+* Grinding ranks with friends
+* Strategy & survival genres
 
 </td>
 
@@ -110,10 +114,10 @@ Outside of coding, I also enjoy gaming, reading manga/manhwa/manhua, listening t
 
 ## 📖 Manga / Manhwa / Manhua
 
-- Action & fantasy genres
-- Long binge-reading sessions
-- Discovering underrated stories
-- Sometimes forgetting character names 😭
+* Action & fantasy genres
+* Long binge-reading sessions
+* Discovering underrated stories
+* Sometimes forgetting character names 😭
 
 </td>
 
@@ -125,10 +129,10 @@ Outside of coding, I also enjoy gaming, reading manga/manhwa/manhua, listening t
 
 ## 💻 Coding
 
-- Building random ideas at 2AM
-- Experimenting with UI designs
-- Creating mini games & utilities
-- Learning through project development
+* Building random ideas at 2AM
+* Experimenting with UI designs
+* Creating mini games & utilities
+* Learning through project development
 
 </td>
 
@@ -136,10 +140,10 @@ Outside of coding, I also enjoy gaming, reading manga/manhwa/manhua, listening t
 
 ## 🚀 Technology
 
-- Exploring development tools
-- Learning modern frameworks
-- Watching tech content
-- Following software trends
+* Exploring development tools
+* Learning modern frameworks
+* Watching tech content
+* Following software trends
 
 </td>
 
@@ -204,17 +208,20 @@ Outside of coding, I also enjoy gaming, reading manga/manhwa/manhua, listening t
 Classic web-based Tetris game inspired by the original arcade gameplay.
 
 ### ✨ Features
-- Smooth block movement
-- Score system
-- Classic gameplay mechanics
-- Responsive layout
+
+* Smooth block movement
+* Score system
+* Classic gameplay mechanics
+* Responsive layout
 
 ### ⚙️ Tech Stack
-- HTML
-- CSS
-- JavaScript
+
+* HTML
+* CSS
+* JavaScript
 
 ### 🔗 Repository
+
 https://github.com/Yuuzaann/Tetris-classic-block-puzzle
 
 </td>
@@ -226,17 +233,20 @@ https://github.com/Yuuzaann/Tetris-classic-block-puzzle
 Interactive Tic-Tac-Toe game with a clean and simple interface.
 
 ### ✨ Features
-- Player vs Player mode
-- Win & draw detection
-- Responsive UI
-- Lightweight gameplay
+
+* Player vs Player mode
+* Win & draw detection
+* Responsive UI
+* Lightweight gameplay
 
 ### ⚙️ Tech Stack
-- HTML
-- CSS
-- JavaScript
+
+* HTML
+* CSS
+* JavaScript
 
 ### 🔗 Repository
+
 https://github.com/Yuuzaann/Tic-Tac-Toe
 
 </td>
@@ -250,7 +260,7 @@ https://github.com/Yuuzaann/Tic-Tac-Toe
 
 <div align="center">
 
-[![Arya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yuuzaann&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=C084FC&line=A855F7&point=FFFFFF)](https://github.com/Yuuzaann)
+[![Arya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yuuzaann\&theme=tokyo-night\&hide_border=true\&bg_color=0D1117\&color=C084FC\&line=A855F7\&point=FFFFFF)](https://github.com/Yuuzaann)
 
 </div>
 
@@ -287,11 +297,12 @@ https://github.com/Yuuzaann/Tic-Tac-Toe
 ### 🌌 Welcome to Midnight Moon
 
 A chill place for:
-- 🎮 Gaming
-- 💻 Sharing projects
-- 📖 Anime & manga discussions
-- 🚀 Learning tech together
-- 🎧 Random late-night conversations
+
+* 🎮 Gaming
+* 💻 Sharing projects
+* 📖 Anime & manga discussions
+* 🚀 Learning tech together
+* 🎧 Random late-night conversations
 
 <br/>
 
@@ -305,32 +316,32 @@ A chill place for:
 
 # ⚡ Fun Facts
 
-- 🌙 Most of my coding sessions happen late at night
-- 🎮 “Just one more match” usually becomes hours of gaming
-- 📖 I can binge manga/manhwa for an entire day without noticing
-- 💡 Many project ideas appear randomly at 2AM
-- 🎧 Music is almost always playing while coding
-- ☕ Coffee makes debugging sessions feel easier
-- 🚀 I enjoy learning by directly building projects
-- 🧩 I like understanding how systems work internally
-- 🔥 Turning ideas into working applications is fun
-- 🐛 Debugging can be frustrating but satisfying
-- 💻 I prefer learning through practice instead of theory
-- 🎯 Always trying to improve little by little
-- 🌐 Interested in modern web development trends
-- 🎨 I enjoy clean and modern UI designs
-- ⚡ Sometimes “a few minutes of coding” turns into sunrise
+* 🌙 Most of my coding sessions happen late at night
+* 🎮 “Just one more match” usually becomes hours of gaming
+* 📖 I can binge manga/manhwa for an entire day without noticing
+* 💡 Many project ideas appear randomly at 2AM
+* 🎧 Music is almost always playing while coding
+* ☕ Coffee makes debugging sessions feel easier
+* 🚀 I enjoy learning by directly building projects
+* 🧩 I like understanding how systems work internally
+* 🔥 Turning ideas into working applications is fun
+* 🐛 Debugging can be frustrating but satisfying
+* 💻 I prefer learning through practice instead of theory
+* 🎯 Always trying to improve little by little
+* 🌐 Interested in modern web development trends
+* 🎨 I enjoy clean and modern UI designs
+* ⚡ Sometimes “a few minutes of coding” turns into sunrise
 
 ---
 
 # 🏆 Goals for This Year
 
-- 🚀 Improve backend development skills
-- 💻 Build more complete web applications
-- 🎯 Learn the modern JavaScript ecosystem
-- 📚 Understand clean architecture better
-- ⚡ Contribute more consistently on GitHub
-- 🌐 Create projects that are useful for others
+* 🚀 Improve backend development skills
+* 💻 Build more complete web applications
+* 🎯 Learn the modern JavaScript ecosystem
+* 📚 Understand clean architecture better
+* ⚡ Contribute more consistently on GitHub
+* 🌐 Create projects that are useful for others
 
 ---
 
