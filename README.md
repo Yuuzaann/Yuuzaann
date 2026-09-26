@@ -188,11 +188,40 @@ Outside of coding, I also enjoy gaming, reading manga/manhwa/manhua, listening t
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Yuuzaann/Yuuzaann/output/snake.svg" alt="Snake Animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yuuzaann/Yuuzaann/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yuuzaann/Yuuzaann/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation of Yuuzaann's contribution graph" src="https://raw.githubusercontent.com/Yuuzaann/Yuuzaann/output/github-contribution-grid-snake.svg" />
+</picture>
 
 <br/>
 
 ### ⚡ Consistency beats motivation.
+
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Yuuzaann&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=A855F7&text_color=E5E7EB" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuuzaann&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=E5E7EB" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuuzaann&theme=tokyonight&hide_border=true&background=0D1117&ring=C084FC&fire=A855F7&currStreakLabel=C084FC" />
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Yuuzaann&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" />
 
 </div>
 
@@ -252,6 +281,66 @@ All-in-one Discord server management bot. Run one command and it builds an entir
 <img src="https://skillicons.dev/icons?i=nodejs" /> <img src="https://img.shields.io/badge/Baileys-25D366?style=flat&logo=whatsapp&logoColor=white" />
 
 **🔗 Repository:** https://github.com/Yuuzaann/yorozu-whatsapp-bot
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🚀 Other Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🎮 Tetris Classic Block Puzzle
+
+Classic web-based Tetris game inspired by the original arcade gameplay.
+
+### ✨ Features
+
+* Smooth block movement
+* Score system
+* Classic gameplay mechanics
+* Responsive layout
+
+### ⚙️ Tech Stack
+
+* HTML
+* CSS
+* JavaScript
+
+### 🔗 Repository
+
+https://github.com/Yuuzaann/Tetris-classic-block-puzzle
+
+</td>
+
+<td width="50%" valign="top">
+
+## ❌⭕ Tic-Tac-Toe
+
+Interactive Tic-Tac-Toe game with a clean and simple interface.
+
+### ✨ Features
+
+* Player vs Player mode
+* Win & draw detection
+* Responsive UI
+* Lightweight gameplay
+
+### ⚙️ Tech Stack
+
+* HTML
+* CSS
+* JavaScript
+
+### 🔗 Repository
+
+https://github.com/Yuuzaann/Tic-Tac-Toe
 
 </td>
 
