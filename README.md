@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=700\&size=24\&pause=1000\&color=C084FC\&center=true\&vCenter=true\&width=850\&lines=Beginner+Developer+💻;Passionate+About+Web+Development+🚀;Building+Projects+and+Learning+Everyday+⚡;Exploring+Backend+Development+🔧;Late-night+Coding+Sessions+🌙;Manga+%2F+Manhwa+%2F+Manhua+Enjoyer+📖;Always+Curious+About+Technology+🧩)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=C084FC&center=true&vCenter=true&width=850&lines=Beginner+Developer+💻;Building+the+Yorozu+Project+Family+🏮;Passionate+About+Web+%26+Bot+Development+🚀;Building+Projects+and+Learning+Everyday+⚡;Exploring+Backend+Development+🔧;Late-night+Coding+Sessions+🌙;Manga+%2F+Manhwa+%2F+Manhua+Enjoyer+📖)](https://git.io/typing-svg)
 
 <br/><br/>
 
@@ -27,15 +27,17 @@ My main focus is currently on:
 
 * 💻 Web Development
 * ⚙️ Backend Systems
+* 🤖 Bot Development
 * 🎨 UI/UX Design
 * 🚀 Modern Web Technologies
 * 🧩 Problem Solving Through Code
 
 I started learning programming because I was curious about how websites, games, and applications are built.
-Since then, coding has become more than just a hobby — it’s something I genuinely enjoy.
+Since then, coding has become more than just a hobby — it's something I genuinely enjoy.
 
 I enjoy creating:
 
+* 🏮 Full-featured Discord & WhatsApp bots
 * 🌐 Web applications
 * 🎮 Mini games
 * ⚡ Interactive interfaces
@@ -49,7 +51,7 @@ I believe the best way to learn programming is by:
 * debugging problems,
 * and continuously improving.
 
-Currently, I’m focusing on improving:
+Currently, I'm focusing on improving:
 
 * 🚀 Backend development skills
 * ⚙️ Modern web technologies
@@ -59,7 +61,7 @@ Currently, I’m focusing on improving:
 
 Outside of coding, I also enjoy gaming, reading manga/manhwa/manhua, listening to music, and exploring random tech topics on the internet.
 
-> “Small progress every day is still progress.”
+> "Small progress every day is still progress."
 
 ---
 
@@ -68,11 +70,11 @@ Outside of coding, I also enjoy gaming, reading manga/manhwa/manhua, listening t
 <div align="center">
 
 | 💻 Currently Learning | ⚡ Building           | 🎯 Future Goals          |
-| --------------------- | -------------------- | ------------------------ |
-| Laravel Ecosystem     | Interactive Web Apps | Full-Stack Engineering   |
-| Backend Architecture  | Personal Projects    | Production-Ready Systems |
-| UI/UX Improvements    | Utility Applications | Clean Code Mastery       |
-| Database Optimization | Game Projects        | Scalable Applications    |
+| ---------------------- | --------------------- | -------------------------- |
+| Laravel Ecosystem      | The Yorozu bot family | Full-Stack Engineering     |
+| Backend Architecture   | Personal Projects     | Production-Ready Systems   |
+| UI/UX Improvements     | Utility Applications  | Clean Code Mastery         |
+| Database Optimization  | Game Projects         | Scalable Applications      |
 
 </div>
 
@@ -82,7 +84,7 @@ Outside of coding, I also enjoy gaming, reading manga/manhwa/manhua, listening t
 
 <div align="center">
 
-> “Every bug is a lesson. Every project is progress.”
+> "Every bug is a lesson. Every project is progress."
 
 </div>
 
@@ -131,7 +133,7 @@ Outside of coding, I also enjoy gaming, reading manga/manhwa/manhua, listening t
 
 * Building random ideas at 2AM
 * Experimenting with UI designs
-* Creating mini games & utilities
+* Creating bots, mini games & utilities
 * Learning through project development
 
 </td>
@@ -196,7 +198,69 @@ Outside of coding, I also enjoy gaming, reading manga/manhwa/manhua, listening t
 
 ---
 
-# 🚀 Featured Projects
+# 🏮 The Yorozu Project Family
+
+<div align="center">
+
+*"Yorozu" (万) is Japanese for* ***"ten thousand"*** *— used idiomatically to mean* ***"everything."*** *Two bots, one philosophy: handle everything so the people using them don't have to.*
+
+</div>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🏮 Yorozu — Discord Bot
+
+All-in-one Discord server management bot. Run one command and it builds an entire, correctly-permissioned server — then members verify, self-role, open tickets, and get their own voice rooms without an admin lifting a finger.
+
+**✨ Highlights**
+* 🔐 OTP-based verification (DM code + `/otp`, not a scriptable button)
+* 🎭 Self-service roles with automatic orphan cleanup
+* 🎫 Full ticket system with claim/close/transcript
+* 🔊 Self-cleaning temporary voice rooms
+* 📊 Live server-stat channels (members, bots, channel count)
+* 👋 Generated welcome/goodbye banner cards
+* 🇮🇩 🇬🇧 Bilingual in every message, by default
+
+**⚙️ Tech Stack**
+
+<img src="https://skillicons.dev/icons?i=nodejs,discordjs" />
+
+**🔗 Repository:** https://github.com/Yuuzaann/yorozu-discord-bot
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌙 Yorozu — WhatsApp Bot
+
+*Simple. Fast. Useful.* A lightweight WhatsApp bot built on Baileys for media downloads, sticker creation, and everyday utility commands — with cooldowns, rate limiting, and automatic reconnect baked in.
+
+**✨ Highlights**
+* 🎵 YouTube → MP3 / 🎬 → MP4 downloader
+* 🎥 TikTok video & photo downloader (carousel support)
+* 🎨 Image / GIF / video → sticker converter
+* 📝 Text & meme sticker creation
+* 🛡️ Per-command cooldowns + global rate limiting
+* 🔄 Automatic reconnect & temp-file cleanup
+* 🇮🇩 🇬🇧 Fully bilingual documentation
+
+**⚙️ Tech Stack**
+
+<img src="https://skillicons.dev/icons?i=nodejs" /> <img src="https://img.shields.io/badge/Baileys-25D366?style=flat&logo=whatsapp&logoColor=white" />
+
+**🔗 Repository:** https://github.com/Yuuzaann/yorozu-whatsapp-bot
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🚀 Other Projects
 
 <table>
 <tr>
@@ -260,7 +324,7 @@ https://github.com/Yuuzaann/Tic-Tac-Toe
 
 <div align="center">
 
-[![Arya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yuuzaann\&theme=tokyo-night\&hide_border=true\&bg_color=0D1117\&color=C084FC\&line=A855F7\&point=FFFFFF)](https://github.com/Yuuzaann)
+[![Arya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yuuzaann&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=C084FC&line=A855F7&point=FFFFFF)](https://github.com/Yuuzaann)
 
 </div>
 
@@ -317,7 +381,7 @@ A chill place for:
 # ⚡ Fun Facts
 
 * 🌙 Most of my coding sessions happen late at night
-* 🎮 “Just one more match” usually becomes hours of gaming
+* 🎮 "Just one more match" usually becomes hours of gaming
 * 📖 I can binge manga/manhwa for an entire day without noticing
 * 💡 Many project ideas appear randomly at 2AM
 * 🎧 Music is almost always playing while coding
@@ -330,7 +394,7 @@ A chill place for:
 * 🎯 Always trying to improve little by little
 * 🌐 Interested in modern web development trends
 * 🎨 I enjoy clean and modern UI designs
-* ⚡ Sometimes “a few minutes of coding” turns into sunrise
+* ⚡ Sometimes "a few minutes of coding" turns into sunrise
 
 ---
 
@@ -338,6 +402,7 @@ A chill place for:
 
 * 🚀 Improve backend development skills
 * 💻 Build more complete web applications
+* 🤖 Keep expanding the Yorozu bot family
 * 🎯 Learn the modern JavaScript ecosystem
 * 📚 Understand clean architecture better
 * ⚡ Contribute more consistently on GitHub
