@@ -246,16 +246,6 @@ All-in-one Discord server management bot. Run one command and it builds an entir
 
 ---
 
-## 📈 Activity Graph:
-
-<div align="center">
-
-[![Arya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yuuzaann&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=C084FC&line=A855F7&point=FFFFFF)](https://github.com/Yuuzaann)
-
-</div>
-
----
-
 ## 🌐 Connect With Me:
 
 <div align="center">
@@ -335,12 +325,6 @@ A chill place for:
 * 🌐 Create projects that are useful for others
 
 ---
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0B1120,25:312E81,50:7C3AED,75:A855F7,100:C084FC" />
-
-<br/>
 
 ### ✨ Thanks for visiting my profile.
 
