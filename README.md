@@ -1,434 +1,160 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0B1120,25:312E81,50:7C3AED,75:A855F7,100:C084FC&text=Arya%20%E2%80%A2%20Yuuzan&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Beginner%20Developer%20%E2%80%A2%20Tech%20Explorer%20%E2%80%A2%20Future%20Full-Stack%20Developer&descAlignY=58&descSize=22" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1120,50:312E81,100:7C3AED&text=Arya%20%E2%80%A2%20Yuuzan&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Developer%20%E2%80%A2%20Web%20%26%20Backend%20%E2%80%A2%20Bot%20Development&descAlignY=62&descSize=18" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=C084FC&center=true&vCenter=true&width=850&lines=Beginner+Developer+💻;Building+the+Yorozu+Project+Family+🏮;Passionate+About+Web+%26+Bot+Development+🚀;Building+Projects+and+Learning+Everyday+⚡;Exploring+Backend+Development+🔧;Late-night+Coding+Sessions+🌙;Manga+%2F+Manhwa+%2F+Manhua+Enjoyer+📖)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1500&color=A855F7&center=true&vCenter=true&width=700&lines=Building+web+applications+and+bots;Learning+backend+architecture;Turning+ideas+into+working+software)](https://git.io/typing-svg)
 
-<br/><br/>
-
-<img src="https://img.shields.io/github/followers/Yuuzaann?style=for-the-badge&logo=github&color=7C3AED&labelColor=111827" />
-<img src="https://img.shields.io/github/stars/Yuuzaann?style=for-the-badge&logo=github&color=A855F7&labelColor=111827" />
-<img src="https://img.shields.io/github/repos/Yuuzaann?style=for-the-badge&logo=github&color=C084FC&labelColor=111827" />
-<img src="https://komarev.com/ghpvc/?username=Yuuzaann&style=for-the-badge&color=C084FC&label=PROFILE+VIEWS" />
-
-<br/><br/>
-
-**[🌌 About](#-about-me)** •
-**[🚀 Journey](#-developer-journey)** •
-**[🧠 Mindset](#-mindset)** •
-**[🎮 Interests](#-interests--activities)** •
-**[🛠️ Tech Stack](#️-tech-stack)** •
-**[📊 Stats](#-github-stats)** •
-**[🏮 Projects](#-the-yorozu-project-family)** •
-**[🌐 Connect](#-connect-with-me)**
+<img src="https://img.shields.io/github/followers/Yuuzaann?style=flat-square&logo=github&color=7C3AED&labelColor=111827" />
+<img src="https://img.shields.io/github/stars/Yuuzaann?style=flat-square&logo=github&color=7C3AED&labelColor=111827" />
+<img src="https://komarev.com/ghpvc/?username=Yuuzaann&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
-# 🌌 About Me
+## About
 
-Hi! I'm **Arya**, also known as **Yuuzan** 👋
+Hi, I'm **Arya**, also known as **Yuuzan**. I'm a developer who enjoys building web applications, backend systems, and bots, and I learn mostly by shipping real projects: building, debugging, and improving step by step.
 
-I'm a **beginner developer** who enjoys exploring technology, programming, and digital creativity.
-Most of my time is spent learning new things, experimenting with projects, and improving my development skills step by step.
-
-<div align="center">
-
-| 👤 Name | 🏷️ Alias | 🎯 Focus | 🌙 Work Style |
-| :-----: | :------: | :------: | :-----------: |
-| Arya | Yuuzan | Web, Backend & Bots | Late-night builder |
-
-</div>
-
-My main focus is currently on:
-
-* 💻 Web Development
-* ⚙️ Backend Systems
-* 🤖 Bot Development
-* 🎨 UI/UX Design
-* 🚀 Modern Web Technologies
-* 🧩 Problem Solving Through Code
-
-I started learning programming because I was curious about how websites, games, and applications are built.
-Since then, coding has become more than just a hobby — it's something I genuinely enjoy.
-
-I enjoy creating:
-
-* 🏮 Full-featured Discord & WhatsApp bots
-* 🌐 Web applications
-* 🎮 Mini games
-* ⚡ Interactive interfaces
-* 🛠️ Utility tools
-* 🚀 Experimental side projects
-
-I believe the best way to learn programming is by:
-
-* building real projects,
-* making mistakes,
-* debugging problems,
-* and continuously improving.
-
-Currently, I'm focusing on improving:
-
-* 🚀 Backend development skills
-* ⚙️ Modern web technologies
-* 🎨 UI/UX understanding
-* 🧩 Clean architecture concepts
-* 📚 Full-stack development skills
-
-Outside of coding, I also enjoy gaming, reading manga/manhwa/manhua, listening to music, and exploring random tech topics on the internet.
+Outside of coding, I enjoy gaming, reading manga/manhwa/manhua, and listening to music.
 
 > "Small progress every day is still progress."
 
----
-
-# 🚀 Developer Journey
-
 <div align="center">
 
-| 💻 Currently Learning | ⚡ Building           | 🎯 Future Goals          |
-| :--------------------: | :-------------------: | :------------------------: |
-| Laravel Ecosystem      | The Yorozu bot family | Full-Stack Engineering     |
-| Backend Architecture   | Personal Projects     | Production-Ready Systems   |
-| UI/UX Improvements     | Utility Applications  | Clean Code Mastery         |
-| Database Optimization  | Game Projects         | Scalable Applications      |
-
-</div>
-
-<div align="center">
-
-```mermaid
-flowchart LR
-    A[🌱 Curious Beginner] --> B[💻 Web Development]
-    B --> C[🤖 Bots and Utilities]
-    C --> D[⚙️ Backend Architecture]
-    D --> E[🚀 Full-Stack Engineer]
-```
+| Currently Learning | Building | Goals |
+| :----------------: | :------: | :---: |
+| Laravel Ecosystem | The Yorozu bot family | Full-Stack Engineering |
+| Backend Architecture | Personal Projects & Utilities | Production-Ready Systems |
+| UI/UX & Database Optimization | Game Projects | Clean Code & Scalable Apps |
 
 </div>
 
 ---
 
-# 🧠 Mindset
+## Tech Stack
 
 <div align="center">
 
-> "Every bug is a lesson. Every project is progress."
-
-</div>
-
-* 💡 Learning by building real projects
-* 🧩 Interested in understanding how systems work internally
-* 🚀 Always experimenting with new technologies
-* 🎯 Improving both frontend and backend development skills
-* 🌙 Most productive during late-night coding sessions
-
----
-
-# 🎮 Interests & Activities
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-## 🎯 Gaming
-
-* Competitive & casual games
-* Exploring gameplay mechanics
-* Grinding ranks with friends
-* Strategy & survival genres
-
-</td>
-
-<td width="50%" valign="top">
-
-## 📖 Manga / Manhwa / Manhua
-
-* Action & fantasy genres
-* Long binge-reading sessions
-* Discovering underrated stories
-* Sometimes forgetting character names 😭
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 💻 Coding
-
-* Building random ideas at 2AM
-* Experimenting with UI designs
-* Creating bots, mini games & utilities
-* Learning through project development
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🚀 Technology
-
-* Exploring development tools
-* Learning modern frameworks
-* Watching tech content
-* Following software trends
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🛠️ Tech Stack
-
-<div align="center">
-
-## 💻 Programming Languages
-
+**Languages**<br/>
 <img src="https://skillicons.dev/icons?i=html,css,javascript,php,python,java,cpp" />
 
-<br/><br/>
-
-## ⚙️ Frameworks & Libraries
-
+**Frameworks & Libraries**<br/>
 <img src="https://skillicons.dev/icons?i=laravel,codeigniter,tailwind,bootstrap" />
 
-<br/><br/>
-
-## 🧰 Tools & Platforms
-
+**Tools & Platforms**<br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,figma,linux" />
 
-<br/><br/>
-
-## 📚 Currently Exploring
-
+**Currently Exploring**<br/>
 <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs" />
 
 </div>
 
 ---
 
-# 🐍 Contribution Graph
+## Featured Projects: The Yorozu Family
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yuuzaann/Yuuzaann/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yuuzaann/Yuuzaann/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation of Yuuzaann's contribution graph" src="https://raw.githubusercontent.com/Yuuzaann/Yuuzaann/output/github-contribution-grid-snake.svg" />
-</picture>
-
-<br/>
-
-### ⚡ Consistency beats motivation.
-
-</div>
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Yuuzaann&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=A855F7&text_color=E5E7EB" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuuzaann&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=E5E7EB" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuuzaann&theme=tokyonight&hide_border=true&background=0D1117&ring=C084FC&fire=A855F7&currStreakLabel=C084FC" />
-
-</div>
-
----
-
-# 🏮 The Yorozu Project Family
-
-<div align="center">
-
-*"Yorozu" (万) is Japanese for* ***"ten thousand"*** *— used idiomatically to mean* ***"everything."*** *Two bots, one philosophy: handle everything so the people using them don't have to.*
-
-</div>
+*"Yorozu" (万) is Japanese for "ten thousand", used idiomatically to mean "everything." Two bots, one philosophy: handle everything so the people using them don't have to.*
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### 🏮 Yorozu — Discord Bot
+### Yorozu — Discord Bot
 
-All-in-one Discord server management bot. Run one command and it builds an entire, correctly-permissioned server — then members verify, self-role, open tickets, and get their own voice rooms without an admin lifting a finger.
+All-in-one server management bot. One command builds an entire, correctly-permissioned server, and members verify, self-role, open tickets, and get their own voice rooms without admin involvement.
 
-**✨ Highlights**
-* 🔐 OTP-based verification (DM code + `/otp`, not a scriptable button)
-* 🎭 Self-service roles with automatic orphan cleanup
-* 🎫 Full ticket system with claim/close/transcript
-* 🔊 Self-cleaning temporary voice rooms
-* 📊 Live server-stat channels (members, bots, channel count)
-* 👋 Generated welcome/goodbye banner cards
-* 🇮🇩 🇬🇧 Bilingual in every message, by default
-
-**⚙️ Tech Stack**
+* OTP-based verification (DM code + `/otp`)
+* Self-service roles with automatic orphan cleanup
+* Ticket system with claim, close, and transcript
+* Self-cleaning temporary voice rooms
+* Live server-stat channels
+* Generated welcome/goodbye banner cards
+* Bilingual (ID/EN) in every message
 
 <img src="https://skillicons.dev/icons?i=nodejs,discordjs" />
 
-**🔗 Repository:** https://github.com/Yuuzaann/yorozu-discord-bot
-
-<a href="https://github.com/Yuuzaann/yorozu-discord-bot">
-<img src="https://img.shields.io/badge/View%20Repository-5865F2?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+[**View Repository →**](https://github.com/Yuuzaann/yorozu-discord-bot)
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🌙 Yorozu — WhatsApp Bot
+### Yorozu — WhatsApp Bot
 
-*Simple. Fast. Useful.* A lightweight WhatsApp bot built on Baileys for media downloads, sticker creation, and everyday utility commands — with cooldowns, rate limiting, and automatic reconnect baked in.
+*Simple. Fast. Useful.* A lightweight bot built on Baileys for media downloads, sticker creation, and everyday utilities, with cooldowns, rate limiting, and automatic reconnect.
 
-**✨ Highlights**
-* 🎵 YouTube → MP3 / 🎬 → MP4 downloader
-* 🎥 TikTok video & photo downloader (carousel support)
-* 🎨 Image / GIF / video → sticker converter
-* 📝 Text & meme sticker creation
-* 🛡️ Per-command cooldowns + global rate limiting
-* 🔄 Automatic reconnect & temp-file cleanup
-* 🇮🇩 🇬🇧 Fully bilingual documentation
-
-**⚙️ Tech Stack**
+* YouTube to MP3 / MP4 downloader
+* TikTok video & photo downloader (carousel support)
+* Image / GIF / video to sticker converter
+* Text & meme sticker creation
+* Per-command cooldowns + global rate limiting
+* Automatic reconnect & temp-file cleanup
+* Bilingual (ID/EN) documentation
 
 <img src="https://skillicons.dev/icons?i=nodejs" /> <img src="https://img.shields.io/badge/Baileys-25D366?style=flat&logo=whatsapp&logoColor=white" />
 
-**🔗 Repository:** https://github.com/Yuuzaann/yorozu-whatsapp-bot
-
-<a href="https://github.com/Yuuzaann/yorozu-whatsapp-bot">
-<img src="https://img.shields.io/badge/View%20Repository-25D366?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+[**View Repository →**](https://github.com/Yuuzaann/yorozu-whatsapp-bot)
 
 </td>
 
 </tr>
 </table>
 
+---
+
+## GitHub Stats
+
 <div align="center">
 
-<a href="https://github.com/Yuuzaann/yorozu-discord-bot">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Yuuzaann&repo=yorozu-discord-bot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=A855F7&text_color=E5E7EB" />
-</a>
-<a href="https://github.com/Yuuzaann/yorozu-whatsapp-bot">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Yuuzaann&repo=yorozu-whatsapp-bot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=A855F7&text_color=E5E7EB" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Yuuzaann&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=A855F7&text_color=E5E7EB" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuuzaann&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=E5E7EB" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yuuzaann/Yuuzaann/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yuuzaann/Yuuzaann/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution graph of Yuuzaann" src="https://raw.githubusercontent.com/Yuuzaann/Yuuzaann/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## Community
+
+<div align="center">
+
+**Dreamscape** is a place for gaming, sharing projects, anime & manga discussions, and learning tech together.
+
+<a href="https://discord.gg/G7QuBuraw3">
+<img src="https://img.shields.io/badge/Join%20Dreamscape-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-# 🌐 Connect With Me
+## Connect
 
 <div align="center">
 
-<a href="https://www.instagram.com/Sadutzz_">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="https://www.tiktok.com/@yuuzaann_">
-<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
-</a>
-
-<a href="https://x.com/Yuuzaan_">
-<img src="https://img.shields.io/badge/X%20(Twitter)-111111?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-
-<a href="https://discord.gg/aBG7U3CMKG">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-
-<a href="https://github.com/Yuuzaann">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<a href="https://github.com/Yuuzaann"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.instagram.com/Sadutzz_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.tiktok.com/@yuuzaann_"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+<a href="https://x.com/Yuuzaan_"><img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://discord.gg/G7QuBuraw3"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 
 </div>
 
 ---
 
-# 🌙 Midnight Moon Community
-
 <div align="center">
 
-### 🌌 Welcome to Midnight Moon
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0B1120,50:312E81,100:7C3AED" />
 
-A chill place for:
-
-* 🎮 Gaming
-* 💻 Sharing projects
-* 📖 Anime & manga discussions
-* 🚀 Learning tech together
-* 🎧 Random late-night conversations
-
-<br/>
-
-<a href="https://discord.gg/N469ZNNSzS">
-<img src="https://img.shields.io/badge/Join%20Midnight%20Moon-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-
-</div>
-
----
-
-# ⚡ Fun Facts
-
-<details>
-<summary><b>🌙 Klik untuk melihat semua fun facts / Click to expand</b></summary>
-
-<br/>
-
-* 🌙 Most of my coding sessions happen late at night
-* 🎮 "Just one more match" usually becomes hours of gaming
-* 📖 I can binge manga/manhwa for an entire day without noticing
-* 💡 Many project ideas appear randomly at 2AM
-* 🎧 Music is almost always playing while coding
-* ☕ Coffee makes debugging sessions feel easier
-* 🚀 I enjoy learning by directly building projects
-* 🧩 I like understanding how systems work internally
-* 🔥 Turning ideas into working applications is fun
-* 🐛 Debugging can be frustrating but satisfying
-* 💻 I prefer learning through practice instead of theory
-* 🎯 Always trying to improve little by little
-* 🌐 Interested in modern web development trends
-* 🎨 I enjoy clean and modern UI designs
-* ⚡ Sometimes "a few minutes of coding" turns into sunrise
-
-</details>
-
----
-
-# 🏆 Goals for This Year
-
-* 🚀 Improve backend development skills
-* 💻 Build more complete web applications
-* 🤖 Keep expanding the Yorozu bot family
-* 🎯 Learn the modern JavaScript ecosystem
-* 📚 Understand clean architecture better
-* ⚡ Contribute more consistently on GitHub
-* 🌐 Create projects that are useful for others
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0B1120,25:312E81,50:7C3AED,75:A855F7,100:C084FC" />
-
-<br/>
-
-### ✨ Thanks for visiting my profile.
-
-<i>Keep learning, stay curious, and build cool things.</i>
+<sub>Thanks for visiting. Keep learning, stay curious, and build cool things.</sub>
 
 </div>
