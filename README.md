@@ -3,16 +3,6 @@ I'm a **student** and a **beginner programmer** who is currently learning the ba
 
 ![Yuuzaann](img/github-header.png)
 
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0B1120,25:312E81,50:7C3AED,75:A855F7,100:C084FC&text=Arya%20%E2%80%A2%20Yuuzan&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Beginner%20Developer%20%E2%80%A2%20Tech%20Explorer%20%E2%80%A2%20Future%20Full-Stack%20Developer&descAlignY=58&descSize=22" />
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=C084FC&center=true&vCenter=true&width=850&lines=Beginner+Developer+💻;Building+the+Yorozu+Project+Family+🏮;Passionate+About+Web+%26+Bot+Development+🚀;Building+Projects+and+Learning+Everyday+⚡;Exploring+Backend+Development+🔧;Late-night+Coding+Sessions+🌙;Manga+%2F+Manhwa+%2F+Manhua+Enjoyer+📖)](https://git.io/typing-svg)
-
-<br/><br/>
-
 <img src="https://img.shields.io/github/followers/Yuuzaann?style=for-the-badge&logo=github&color=7C3AED&labelColor=111827" />
 <img src="https://img.shields.io/github/stars/Yuuzaann?style=for-the-badge&logo=github&color=A855F7&labelColor=111827" />
 <img src="https://komarev.com/ghpvc/?username=Yuuzaann&style=for-the-badge&color=C084FC&label=PROFILE+VIEWS" />
