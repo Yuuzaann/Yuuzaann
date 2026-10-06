@@ -3,15 +3,175 @@ I'm a **student** and a **beginner programmer** who is currently learning the ba
 
 ![Yuuzaann](img/github-header.png)
 
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0B1120,25:312E81,50:7C3AED,75:A855F7,100:C084FC&text=Arya%20%E2%80%A2%20Yuuzan&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Beginner%20Developer%20%E2%80%A2%20Tech%20Explorer%20%E2%80%A2%20Future%20Full-Stack%20Developer&descAlignY=58&descSize=22" />
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=C084FC&center=true&vCenter=true&width=850&lines=Beginner+Developer+💻;Building+the+Yorozu+Project+Family+🏮;Passionate+About+Web+%26+Bot+Development+🚀;Building+Projects+and+Learning+Everyday+⚡;Exploring+Backend+Development+🔧;Late-night+Coding+Sessions+🌙;Manga+%2F+Manhwa+%2F+Manhua+Enjoyer+📖)](https://git.io/typing-svg)
+
+<br/><br/>
+
+<img src="https://img.shields.io/github/followers/Yuuzaann?style=for-the-badge&logo=github&color=7C3AED&labelColor=111827" />
+<img src="https://img.shields.io/github/stars/Yuuzaann?style=for-the-badge&logo=github&color=A855F7&labelColor=111827" />
+<img src="https://komarev.com/ghpvc/?username=Yuuzaann&style=for-the-badge&color=C084FC&label=PROFILE+VIEWS" />
+
+</div>
+
+---
+
 ## 🚀 About Me:
 
-- 🎓 Still a student
-- 💻 Currently learning: Laravel, Backend Development, and Modern JavaScript
-- 🌱 Interested in: Web Development & Bot Development
-- 📚 I love exploring and trying out new tech
+Hi! I'm **Arya**, also known as **Yuuzan** 👋
+
+I'm a **beginner developer** who enjoys exploring technology, programming, and digital creativity.
+Most of my time is spent learning new things, experimenting with projects, and improving my development skills step by step.
+
+My main focus is currently on:
+
+* 💻 Web Development
+* ⚙️ Backend Systems
+* 🤖 Bot Development
+* 🎨 UI/UX Design
+* 🚀 Modern Web Technologies
+* 🧩 Problem Solving Through Code
+
+I started learning programming because I was curious about how websites, games, and applications are built.
+Since then, coding has become more than just a hobby — it's something I genuinely enjoy.
+
+I enjoy creating:
+
+* 🏮 Full-featured Discord & WhatsApp bots
+* 🌐 Web applications
+* 🎮 Mini games
+* ⚡ Interactive interfaces
+* 🛠️ Utility tools
+* 🚀 Experimental side projects
+
+I believe the best way to learn programming is by:
+
+* building real projects,
+* making mistakes,
+* debugging problems,
+* and continuously improving.
+
+Currently, I'm focusing on improving:
+
+* 🚀 Backend development skills
+* ⚙️ Modern web technologies
+* 🎨 UI/UX understanding
+* 🧩 Clean architecture concepts
+* 📚 Full-stack development skills
+
+Outside of coding, I also enjoy gaming, reading manga/manhwa/manhua, listening to music, and exploring random tech topics on the internet.
+
+> "Small progress every day is still progress."
+
+---
+
+## 🚀 Developer Journey:
+
+<div align="center">
+
+| 💻 Currently Learning | ⚡ Building           | 🎯 Future Goals          |
+| ---------------------- | --------------------- | -------------------------- |
+| Laravel Ecosystem      | The Yorozu bot family | Full-Stack Engineering     |
+| Backend Architecture   | Personal Projects     | Production-Ready Systems   |
+| UI/UX Improvements     | Utility Applications  | Clean Code Mastery         |
+| Database Optimization  | Game Projects         | Scalable Applications      |
+
+</div>
+
+---
+
+## 🧠 Mindset:
+
+<div align="center">
+
+> "Every bug is a lesson. Every project is progress."
+
+</div>
+
+* 💡 Learning by building real projects
+* 🧩 Interested in understanding how systems work internally
+* 🚀 Always experimenting with new technologies
+* 🎯 Improving both frontend and backend development skills
+* 🌙 Most productive during late-night coding sessions
+
+---
+
+## 🎮 Interests & Activities:
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🎯 Gaming
+
+* Competitive & casual games
+* Exploring gameplay mechanics
+* Grinding ranks with friends
+* Strategy & survival genres
+
+</td>
+
+<td width="50%" valign="top">
+
+## 📖 Manga / Manhwa / Manhua
+
+* Action & fantasy genres
+* Long binge-reading sessions
+* Discovering underrated stories
+* Sometimes forgetting character names 😭
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 💻 Coding
+
+* Building random ideas at 2AM
+* Experimenting with UI designs
+* Creating bots, mini games & utilities
+* Learning through project development
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🚀 Technology
+
+* Exploring development tools
+* Learning modern frameworks
+* Watching tech content
+* Following software trends
+
+</td>
+
+</tr>
+</table>
+
+---
 
 ## 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+**Programming Languages**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+
+**Frameworks & Libraries**
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+
+**Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+**Currently Exploring**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 
 <img src="img/kurumi.gif" alt="Yuuzaann" style="border-radius: 10px;">
 
@@ -24,3 +184,190 @@ I'm a **student** and a **beginner programmer** who is currently learning the ba
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yuuzaann/Yuuzaann/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Yuuzaann/Yuuzaann/output/pacman-contribution-graph.svg">
 </picture>
+
+<div align="center">
+
+### ⚡ Consistency beats motivation.
+
+</div>
+
+---
+
+## 📊 GitHub Stats:
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Yuuzaann&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=A855F7&text_color=E5E7EB" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuuzaann&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=E5E7EB" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuuzaann&theme=tokyonight&hide_border=true&background=0D1117&ring=C084FC&fire=A855F7&currStreakLabel=C084FC" />
+
+</div>
+
+---
+
+## 🏮 The Yorozu Project Family:
+
+<div align="center">
+
+*"Yorozu" (万) is Japanese for* ***"ten thousand"*** *— used idiomatically to mean* ***"everything."*** *Two bots, one philosophy: handle everything so the people using them don't have to.*
+
+</div>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🏮 Yorozu — Discord Bot
+
+All-in-one Discord server management bot. Run one command and it builds an entire, correctly-permissioned server — then members verify, self-role, open tickets, and get their own voice rooms without an admin lifting a finger.
+
+**✨ Highlights**
+* 🔐 OTP-based verification (DM code + `/otp`, not a scriptable button)
+* 🎭 Self-service roles with automatic orphan cleanup
+* 🎫 Full ticket system with claim/close/transcript
+* 🔊 Self-cleaning temporary voice rooms
+* 📊 Live server-stat channels (members, bots, channel count)
+* 👋 Generated welcome/goodbye banner cards
+* 🇮🇩 🇬🇧 Bilingual in every message, by default
+
+**⚙️ Tech Stack**
+
+<img src="https://skillicons.dev/icons?i=nodejs,discordjs" />
+
+**🔗 Repository:** https://github.com/Yuuzaann/yorozu-discord-bot
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌙 Yorozu — WhatsApp Bot
+
+*Simple. Fast. Useful.* A lightweight WhatsApp bot built on Baileys for media downloads, sticker creation, and everyday utility commands — with cooldowns, rate limiting, and automatic reconnect baked in.
+
+**✨ Highlights**
+* 🎵 YouTube → MP3 / 🎬 → MP4 downloader
+* 🎥 TikTok video & photo downloader (carousel support)
+* 🎨 Image / GIF / video → sticker converter
+* 📝 Text & meme sticker creation
+* 🛡️ Per-command cooldowns + global rate limiting
+* 🔄 Automatic reconnect & temp-file cleanup
+* 🇮🇩 🇬🇧 Fully bilingual documentation
+
+**⚙️ Tech Stack**
+
+<img src="https://skillicons.dev/icons?i=nodejs" /> <img src="https://img.shields.io/badge/Baileys-25D366?style=flat&logo=whatsapp&logoColor=white" />
+
+**🔗 Repository:** https://github.com/Yuuzaann/yorozu-whatsapp-bot
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 📈 Activity Graph:
+
+<div align="center">
+
+[![Arya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yuuzaann&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=C084FC&line=A855F7&point=FFFFFF)](https://github.com/Yuuzaann)
+
+</div>
+
+---
+
+## 🌐 Connect With Me:
+
+<div align="center">
+
+<a href="https://www.instagram.com/Sadutzz_">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://www.tiktok.com/@yuuzaann_">
+<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+</a>
+
+<a href="https://x.com/Yuuzaan_">
+<img src="https://img.shields.io/badge/X%20(Twitter)-111111?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<a href="https://discord.gg/aBG7U3CMKG">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 🌙 Midnight Moon Community:
+
+<div align="center">
+
+### 🌌 Welcome to Midnight Moon
+
+A chill place for:
+
+* 🎮 Gaming
+* 💻 Sharing projects
+* 📖 Anime & manga discussions
+* 🚀 Learning tech together
+* 🎧 Random late-night conversations
+
+<br/>
+
+<a href="https://discord.gg/N469ZNNSzS">
+<img src="https://img.shields.io/badge/Join%20Midnight%20Moon-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## ⚡ Fun Facts:
+
+* 🌙 Most of my coding sessions happen late at night
+* 🎮 "Just one more match" usually becomes hours of gaming
+* 📖 I can binge manga/manhwa for an entire day without noticing
+* 💡 Many project ideas appear randomly at 2AM
+* 🎧 Music is almost always playing while coding
+* ☕ Coffee makes debugging sessions feel easier
+* 🚀 I enjoy learning by directly building projects
+* 🧩 I like understanding how systems work internally
+* 🔥 Turning ideas into working applications is fun
+* 🐛 Debugging can be frustrating but satisfying
+* 💻 I prefer learning through practice instead of theory
+* 🎯 Always trying to improve little by little
+* 🌐 Interested in modern web development trends
+* 🎨 I enjoy clean and modern UI designs
+* ⚡ Sometimes "a few minutes of coding" turns into sunrise
+
+---
+
+## 🏆 Goals for This Year:
+
+* 🚀 Improve backend development skills
+* 💻 Build more complete web applications
+* 🤖 Keep expanding the Yorozu bot family
+* 🎯 Learn the modern JavaScript ecosystem
+* 📚 Understand clean architecture better
+* ⚡ Contribute more consistently on GitHub
+* 🌐 Create projects that are useful for others
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0B1120,25:312E81,50:7C3AED,75:A855F7,100:C084FC" />
+
+<br/>
+
+### ✨ Thanks for visiting my profile.
+
+<i>Keep learning, stay curious, and build cool things.</i>
+
+</div>
