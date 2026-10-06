@@ -1,6 +1,8 @@
 # Hello, I'm Yuuzan!
 I'm a **student** and a **beginner programmer** who is currently learning the basics of coding and building small projects.
 
+<div align="center">
+
 ![Yuuzaann](img/github-header.png)
 
 <img src="https://img.shields.io/github/followers/Yuuzaann?style=for-the-badge&logo=github&color=7C3AED&labelColor=111827" />
