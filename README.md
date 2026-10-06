@@ -1,12 +1,19 @@
 <div align="center">
 
-# Arya Permadi (Yuuzan)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Arya%20Permadi&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Yuuzan%20%E2%80%A2%20Informatics%20Student%20%E2%80%A2%20Full-Stack%20Developer%20in%20Progress&descSize=16&descAlignY=68" alt="Header" width="100%">
 
-**Informatics Student · Full-Stack Developer in Progress · Bot & Web Builder**
+<img src="img/kurumi.gif" alt="Yuuzan" width="180">
 
-<img src="img/github-header.png" alt="Yuuzan GitHub Header" width="100%">
+<br><br>
 
-<br>
+<a href="#about">About</a> ·
+<a href="#tech-stack">Tech Stack</a> ·
+<a href="#featured-projects">Projects</a> ·
+<a href="#github-statistics">Stats</a> ·
+<a href="#community">Community</a> ·
+<a href="#connect">Connect</a>
+
+<br><br>
 
 <img src="https://img.shields.io/github/followers/Yuuzaann?style=for-the-badge&logo=github&color=7C3AED&labelColor=111827" alt="Followers" />
 <img src="https://img.shields.io/github/stars/Yuuzaann?style=for-the-badge&logo=github&color=A855F7&labelColor=111827" alt="Stars" />
@@ -14,41 +21,23 @@
 
 </div>
 
+<img src="img/github-header.png" alt="Yuuzan GitHub Header" width="100%">
+
 ---
 
-## About Me
+## About
 
-I'm **Arya**, also known as **Yuuzan** — an Informatics student who builds web applications, bots, and utility tools. I learn by shipping real projects: building, breaking, debugging, and improving them.
+Hi, I'm **Arya**, also known as **Yuuzan**. I'm an Informatics student who builds web applications, bots, and utility tools. I learn by shipping real projects: building, breaking, debugging, and improving them.
 
-> *"Small progress every day is still progress."*
+> *"Every bug is a lesson. Every project is progress."*
 
-### Current Focus
-
-| Area | Focus |
+| | |
 | :-- | :-- |
-| **Web Development** | Building modern, responsive web applications |
-| **Backend** | APIs, architecture, and database design |
-| **Bot Development** | Discord and WhatsApp automation |
-| **UI/UX** | Clean, practical interfaces |
-| **Full-Stack** | Strengthening frontend and backend skills together |
-
-### What I Build
-
-- Web applications and interactive interfaces
-- Discord and WhatsApp bots
-- Utility tools and mini games
-- Experimental side projects
-
----
-
-## Developer Journey
-
-| Learning | Building | Future Goals |
-| :-: | :-: | :-: |
-| Laravel ecosystem | Yorozu bot family | Full-stack engineering |
-| Backend architecture | Personal projects | Production-ready systems |
-| UI/UX | Utility applications | Clean architecture |
-| Database optimization | Game projects | Scalable applications |
+| **Role** | Informatics student, aspiring full-stack developer |
+| **Focus** | Web development, backend and APIs, bot automation, UI/UX |
+| **Learning** | Laravel ecosystem, backend architecture, Node.js, React, Next.js |
+| **Building** | Yorozu bot family, personal projects, utility apps, games |
+| **Mindset** | Learn by building, understand how systems work internally |
 
 ---
 
@@ -96,9 +85,15 @@ I'm **Arya**, also known as **Yuuzan** — an Informatics student who builds web
 
 ---
 
-## Featured Projects — Yorozu (万)
+## Featured Projects
 
-Two bots, one philosophy: handle everything so the people using them don't have to.
+<div align="center">
+
+### Yorozu (万)
+
+*Two bots, one philosophy: handle everything so the people using them don't have to.*
+
+</div>
 
 <table>
 <tr>
@@ -106,9 +101,7 @@ Two bots, one philosophy: handle everything so the people using them don't have 
 
 ### Yorozu Discord
 
-All-in-one Discord server management bot. A single command sets up verification, roles, tickets, temporary voice channels, and statistics.
-
-**Features**
+All-in-one Discord server management bot. One command sets up verification, roles, tickets, temporary voice channels, and statistics.
 
 - OTP-based verification
 - Self-service roles
@@ -118,7 +111,7 @@ All-in-one Discord server management bot. A single command sets up verification,
 - Welcome & goodbye banners
 - Bilingual messages (ID / EN)
 
-**Stack:** Node.js · discord.js
+<img src="https://skillicons.dev/icons?i=nodejs,discordjs" alt="Node.js, discord.js" />
 
 **[View Repository →](https://github.com/Yuuzaann/yorozu-discord-bot)**
 
@@ -129,8 +122,6 @@ All-in-one Discord server management bot. A single command sets up verification,
 
 Lightweight WhatsApp bot built with Baileys for media downloads, stickers, and everyday utilities.
 
-**Features**
-
 - YouTube to MP3 / MP4
 - TikTok downloads
 - Sticker converter
@@ -139,7 +130,8 @@ Lightweight WhatsApp bot built with Baileys for media downloads, stickers, and e
 - Automatic reconnect
 - Temporary-file cleanup
 
-**Stack:** Node.js · Baileys
+<img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
+<img src="https://img.shields.io/badge/Baileys-25D366?style=flat&logo=whatsapp&logoColor=white" alt="Baileys" />
 
 **[View Repository →](https://github.com/Yuuzaann/yorozu-whatsapp-bot)**
 
@@ -164,23 +156,45 @@ Lightweight WhatsApp bot built with Baileys for media downloads, stickers, and e
 
 ---
 
-## Goals
+## Roadmap
 
-- Deepen backend development skills
-- Build more complete, production-ready web applications
-- Expand the Yorozu ecosystem
-- Master the modern JavaScript ecosystem
-- Apply clean architecture principles
-- Contribute more consistently on GitHub
-- Build useful projects for others
+| Learning | Building | Future Goals |
+| :-: | :-: | :-: |
+| Laravel ecosystem | Yorozu bot family | Full-stack engineering |
+| Backend architecture | Personal projects | Production-ready systems |
+| UI/UX | Utility applications | Clean architecture |
+| Database optimization | Game projects | Scalable applications |
+
+**Goals:** deepen backend skills · build complete web applications · expand the Yorozu ecosystem · master the modern JavaScript ecosystem · contribute consistently on GitHub · build useful projects for others.
 
 ---
 
-## Interests
+## Beyond Code
 
-**Gaming** — competitive and casual games, strategy, and game mechanics.
-**Manga / Manhwa / Manhua** — action and fantasy, and finding underrated stories.
-**Technology** — development tools, modern frameworks, and software trends.
+<details>
+<summary><b>Interests</b></summary>
+
+<br>
+
+| Gaming | Manga / Manhwa / Manhua | Technology |
+| :-- | :-- | :-- |
+| Competitive & casual games | Action & fantasy | Development tools |
+| Strategy & survival | Finding underrated stories | Modern frameworks |
+| Game mechanics | Long binge-reading sessions | Software trends |
+
+</details>
+
+<details>
+<summary><b>A few random facts</b></summary>
+
+<br>
+
+- Most coding sessions happen late at night, and many project ideas appear at 2 AM.
+- Music is almost always playing while coding.
+- "Just one more match" can easily turn into several hours.
+- Debugging is frustrating, but satisfying when it finally works.
+
+</details>
 
 ---
 
@@ -200,7 +214,7 @@ A relaxed community for gaming, projects, anime & manga, tech, and late-night co
 
 ---
 
-## Connect With Me
+## Connect
 
 <div align="center">
 
@@ -221,6 +235,6 @@ A relaxed community for gaming, projects, anime & manga, tech, and late-night co
 
 *Keep learning. Stay curious. Build useful things.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" alt="Footer" width="100%" />
 
 </div>
