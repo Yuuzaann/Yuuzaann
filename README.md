@@ -10,7 +10,19 @@
 
 <img src="https://img.shields.io/github/followers/Yuuzaann?style=for-the-badge&logo=github&color=7C3AED&labelColor=111827" />
 <img src="https://img.shields.io/github/stars/Yuuzaann?style=for-the-badge&logo=github&color=A855F7&labelColor=111827" />
+<img src="https://img.shields.io/github/repos/Yuuzaann?style=for-the-badge&logo=github&color=C084FC&labelColor=111827" />
 <img src="https://komarev.com/ghpvc/?username=Yuuzaann&style=for-the-badge&color=C084FC&label=PROFILE+VIEWS" />
+
+<br/><br/>
+
+**[🌌 About](#-about-me)** •
+**[🚀 Journey](#-developer-journey)** •
+**[🧠 Mindset](#-mindset)** •
+**[🎮 Interests](#-interests--activities)** •
+**[🛠️ Tech Stack](#️-tech-stack)** •
+**[📊 Stats](#-github-stats)** •
+**[🏮 Projects](#-the-yorozu-project-family)** •
+**[🌐 Connect](#-connect-with-me)**
 
 </div>
 
@@ -22,6 +34,14 @@ Hi! I'm **Arya**, also known as **Yuuzan** 👋
 
 I'm a **beginner developer** who enjoys exploring technology, programming, and digital creativity.
 Most of my time is spent learning new things, experimenting with projects, and improving my development skills step by step.
+
+<div align="center">
+
+| 👤 Name | 🏷️ Alias | 🎯 Focus | 🌙 Work Style |
+| :-----: | :------: | :------: | :-----------: |
+| Arya | Yuuzan | Web, Backend & Bots | Late-night builder |
+
+</div>
 
 My main focus is currently on:
 
@@ -70,11 +90,23 @@ Outside of coding, I also enjoy gaming, reading manga/manhwa/manhua, listening t
 <div align="center">
 
 | 💻 Currently Learning | ⚡ Building           | 🎯 Future Goals          |
-| ---------------------- | --------------------- | -------------------------- |
+| :--------------------: | :-------------------: | :------------------------: |
 | Laravel Ecosystem      | The Yorozu bot family | Full-Stack Engineering     |
 | Backend Architecture   | Personal Projects     | Production-Ready Systems   |
 | UI/UX Improvements     | Utility Applications  | Clean Code Mastery         |
 | Database Optimization  | Game Projects         | Scalable Applications      |
+
+</div>
+
+<div align="center">
+
+```mermaid
+flowchart LR
+    A[🌱 Curious Beginner] --> B[💻 Web Development]
+    B --> C[🤖 Bots and Utilities]
+    C --> D[⚙️ Backend Architecture]
+    D --> E[🚀 Full-Stack Engineer]
+```
 
 </div>
 
@@ -249,6 +281,10 @@ All-in-one Discord server management bot. Run one command and it builds an entir
 
 **🔗 Repository:** https://github.com/Yuuzaann/yorozu-discord-bot
 
+<a href="https://github.com/Yuuzaann/yorozu-discord-bot">
+<img src="https://img.shields.io/badge/View%20Repository-5865F2?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </td>
 
 <td width="50%" valign="top">
@@ -272,10 +308,25 @@ All-in-one Discord server management bot. Run one command and it builds an entir
 
 **🔗 Repository:** https://github.com/Yuuzaann/yorozu-whatsapp-bot
 
+<a href="https://github.com/Yuuzaann/yorozu-whatsapp-bot">
+<img src="https://img.shields.io/badge/View%20Repository-25D366?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </td>
 
 </tr>
 </table>
+
+<div align="center">
+
+<a href="https://github.com/Yuuzaann/yorozu-discord-bot">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Yuuzaann&repo=yorozu-discord-bot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=A855F7&text_color=E5E7EB" />
+</a>
+<a href="https://github.com/Yuuzaann/yorozu-whatsapp-bot">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Yuuzaann&repo=yorozu-whatsapp-bot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=A855F7&text_color=E5E7EB" />
+</a>
+
+</div>
 
 ---
 
@@ -297,6 +348,10 @@ All-in-one Discord server management bot. Run one command and it builds an entir
 
 <a href="https://discord.gg/aBG7U3CMKG">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
+<a href="https://github.com/Yuuzaann">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -329,6 +384,11 @@ A chill place for:
 
 # ⚡ Fun Facts
 
+<details>
+<summary><b>🌙 Klik untuk melihat semua fun facts / Click to expand</b></summary>
+
+<br/>
+
 * 🌙 Most of my coding sessions happen late at night
 * 🎮 "Just one more match" usually becomes hours of gaming
 * 📖 I can binge manga/manhwa for an entire day without noticing
@@ -344,6 +404,8 @@ A chill place for:
 * 🌐 Interested in modern web development trends
 * 🎨 I enjoy clean and modern UI designs
 * ⚡ Sometimes "a few minutes of coding" turns into sunrise
+
+</details>
 
 ---
 
