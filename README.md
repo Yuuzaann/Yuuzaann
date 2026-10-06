@@ -217,16 +217,6 @@ Outside of coding, I also enjoy gaming, reading manga/manhwa/manhua, listening t
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Yuuzaann&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" />
-
-</div>
-
----
-
 # 🏮 The Yorozu Project Family
 
 <div align="center">
@@ -286,16 +276,6 @@ All-in-one Discord server management bot. Run one command and it builds an entir
 
 </tr>
 </table>
-
----
-
-# 📈 Activity Graph
-
-<div align="center">
-
-[![Arya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yuuzaann&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=C084FC&line=A855F7&point=FFFFFF)](https://github.com/Yuuzaann)
-
-</div>
 
 ---
 
