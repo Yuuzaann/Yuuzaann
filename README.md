@@ -167,22 +167,6 @@ Outside of coding, I also enjoy gaming, reading manga/manhwa/manhua, listening t
 
 <img src="img/kurumi.gif" alt="Yuuzaann" style="border-radius: 10px;">
 
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=Yuuzaann&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-## 🎮 Play Games:
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yuuzaann/Yuuzaann/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yuuzaann/Yuuzaann/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Yuuzaann/Yuuzaann/output/pacman-contribution-graph.svg">
-</picture>
-
-<div align="center">
-
-### ⚡ Consistency beats motivation.
-
-</div>
-
 ---
 
 ## 📊 GitHub Stats:
